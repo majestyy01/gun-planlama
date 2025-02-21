@@ -1,2 +1,4 @@
 # gun-planlama
-Uzun zamandır üzerinde çalıştığım ve yardım alarak yaptığım gün planlama programım
+Uzun zamandır yapmaya çalıştığım ve TypeScript kullanarak yaptığım ilk projem (evet yardım aldım hem yapay zekadan hemde internetten :D)
+
+https://yapilacaklar-listesi-pi.vercel.app/
